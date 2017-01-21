@@ -377,4 +377,4 @@ mediaviewPlaybackIconFg: mediaviewPlaybackActive;
 mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
-notificationBg: #536dfe;
+notificationBg: #28374c;
